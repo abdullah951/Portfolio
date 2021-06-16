@@ -18,7 +18,7 @@ I'm quite happy with the final product: Zawar was built entirely in Java, with n
 <!-- <img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF"><br><br> -->
 
 <p align="center">
-<img src="zawar1.png" width="230"  title="Zawar">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="zawar2.png" width="230" title="Zawar">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="zawar3.png" width="228" title="Zawar">
+<img src="zawar1.jpg" width="230"  title="Zawar">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="zawar2.jpg" width="230" title="Zawar">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="zawar3.jpg" width="228" title="Zawar">
 </p>
 
 
@@ -291,8 +291,8 @@ Who says trivia isn't useful? You will keep your brain sharp with Quiz Me. We ha
 
 # Contact Info:
 
-- Email: salmanafzal0900@gmail.com
-- LinkedIn: [Salman Afzal](https://www.linkedin.com/in/salman-afzal-518a87141)
-- Github: [@salmanafzal25](https://github.com/salmanafzal25/iOS-Portfolio.git)
-- Stackoverflow: [@salmanafzal25](https://stackoverflow.com/users/12090600/salmanafzal0900)
-- Whatsapp: +923125236323
+- Email: abdu11ah_k@gmail.com
+- LinkedIn: [Salman Afzal](https://www.linkedin.com/in/abdullah-yousafzai)
+- Github: [@salmanafzal25](https://github.com/abdullah951/Android-Portfolio.git)
+- Stackoverflow: [@salmanafzal25](https://stackoverflow.com/users/6596362/abdullah)
+- Whatsapp: +923045192218
