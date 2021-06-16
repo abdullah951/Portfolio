@@ -1,11 +1,11 @@
 # Salman Afzal - iOS Developer
 
 <div class="entry">
-    <p>Software Engineer as an iOS Developer since <strong>more than 1.5yrs</strong>. Developed native iOS apps ranging from simple education apps to high-end secure enterprise apps. Always working towards clean code, intuitive user experience, data security. I am striving to keep me up with new technologies.<br>
+    <p>Software Engineer as an Android Developer since <strong>more than 1.5yrs</strong>. Developed native Android apps ranging from simple education apps to high-end secure enterprise apps. Always working towards clean code, intuitive user experience, data security. I am striving to keep me up with new technologies.<br>
 
 
 <h2 id="skills">Skills</h2>
-<p>Currently using <strong>Swift</strong>, 1.5yrs, through all versions up to recent v5.0<br>
+<p>Currently using <strong>Java, Kotlin, Dart</strong>, 1.5yrs, through all versions up to recent v5.0<br>
 <strong>REST, GraphQL(Apollo), Firebase, Unit Tests, CoreData, CoreGraphics, CoreAnimation,Amazon S3 Bucket, Google Maps, Map box, Map Kit, One signal, Agora, Sinch, AVFoundation, Accessibility, Apple Account Creation And Maintenance  Publish iOS app on appstore</strong><br>
 <strong>Tools:</strong> GitHub, Bitbucker, Jira,Redmine, Trello, Skype </p>
   </div>
