@@ -1,4 +1,4 @@
-# Android Developer - Android Developer
+# Abdullah khan - Android Developer
 
 <div class="entry">
     <p>Software Engineer as an Android Developer since <strong>more than 1.5yrs</strong>. Developed native Android apps ranging from simple education apps to high-end secure enterprise apps. Always working towards clean code, intuitive user experience, data security. I am striving to keep me up with new technologies.<br>
