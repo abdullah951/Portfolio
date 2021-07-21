@@ -22,11 +22,11 @@ I'm quite happy with the final product: Zawar was built entirely in Java, with n
 </p>
 
 
-  # UAE-Barq (fitness app)
-[UAE-BARQ](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=123) is a Fitness App. in this app animation is used to demonstrate different exercises.
+  # Zawar Driver (Rider App)
+[UAE-BARQ](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=123) is a Ride sharing driver App. This app is for driver to provide services to customers through ride sharing.
 
 <p align="center">
-<img src="uarBarq1.png" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="uarBarq2.png" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="uarBarq3.png" width="228" title="HelloDoctor">
+<img src="driver1.png" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="driver2.png" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="uarBarq3.png" width="228" title="HelloDoctor">
 </p>
   
   
