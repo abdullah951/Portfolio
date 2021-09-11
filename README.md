@@ -11,7 +11,7 @@
   </div>
   
   # Zawar Passenger (Ride Sharing App)
-[HelloDoctor](https://play.google.com/store/apps/details?id=com.zawar.user&hl=en_US&gl=US) is a online Ride sharing App. The basic requirements for the app were that it help Travel with safety ,share your Ride details with your loved ones, so that they can track your Ride
+[Zawar Passenger](https://play.google.com/store/apps/details?id=com.zawar.user&hl=en_US&gl=US) is a online Ride sharing App. The basic requirements for the app were that it help Travel with safety ,share your Ride details with your loved ones, so that they can track your Ride
 
 I'm quite happy with the final product: Zawar was built entirely in Java, with no external dependencies, and the UI—which was created using Different Layout in Interface Builder—is attractive and animates smoothly. Most importantly, the code is clean, easy to reason about, and maintains strong separation of concerns.
 
@@ -23,15 +23,15 @@ I'm quite happy with the final product: Zawar was built entirely in Java, with n
 
 
   # Zawar Driver (Rider App)
-[UAE-BARQ](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=123) is a Ride sharing driver App. This app is for driver to provide services to customers through ride sharing.
+[Zawar Driver](https://play.google.com/store/apps/details?id=com.zawar.driver) is a Ride sharing driver App. This app is for driver to provide services to customers through ride sharing.
 
 <p align="center">
 <img src="driver1.png" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="driver2.png" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="driver2.png" width="228" title="HelloDoctor">
 </p>
   
   
-    # TH-Auction (fitness app)
-[Denarius](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=123) is a Online Auction App.
+  # Denarius (Inventory app)
+[Denarius](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=123) is a Online inventory App.
 
 <p align="center">
 <img src="denarius1.jpeg" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="denarius4.jpeg" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="denarius6.jpeg" width="228" title="HelloDoctor">
