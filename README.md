@@ -1,13 +1,13 @@
 # Abdullah khan - Android Developer
 
 <div class="entry">
-    <p>Software Engineer as an Android Developer since <strong>more than 1.5yrs</strong>. Developed native Android apps ranging from simple education apps to high-end secure enterprise apps. Always working towards clean code, intuitive user experience, data security. I am striving to keep me up with new technologies.<br>
+    <p>Software Engineer as an Android Developer since <strong>more than 1.5yrs</strong>. Developed native and Flutter Android apps ranging from simple education apps to high-end secure enterprise apps. Always working towards clean code, intuitive user experience, data security. I am striving to keep me up with new technologies.<br>
 
 
 <h2 id="skills">Skills</h2>
-<p>Currently using <strong>Java, Kotlin, Dart</strong>, 1.5yrs, through all versions up to recent v5.0<br>
-<strong>REST, GraphQL(Apollo), Firebase, Unit Tests, CoreData, CoreGraphics, CoreAnimation,Amazon S3 Bucket, Google Maps, Map box, Map Kit, One signal, Agora, Sinch, AVFoundation, Accessibility, Apple Account Creation And Maintenance  Publish iOS app on appstore</strong><br>
-<strong>Tools:</strong> GitHub, Bitbucker, Jira,Redmine, Trello, Skype </p>
+<p>Currently using <strong>Java, Kotlin, Dart</strong>, 2+yrs<br>
+<strong>REST, Firebase, Unit Tests, Retrofit, RxJava, Coroutine, Flow, Room, LiveData, DI(Dagger2, Hilt), MVVM, MVP, Google Maps, Jetpack, Agora, Sinch, Accessibility And Maintenance  Publish android app on playstore</strong><br>
+<strong>Tools:</strong> GitHub, Bitbucker, Jira, Trello, Skype </p>
   </div>
   
   # Zawar Passenger (Ride Sharing App)
@@ -34,7 +34,7 @@ I'm quite happy with the final product: Zawar was built entirely in Java, with n
 [Denarius](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=123) is a Online Auction App.
 
 <p align="center">
-<img src="denarius1.jpeg" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="denarius2.jpeg" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="denarius3.jpeg" width="228" title="HelloDoctor">
+<img src="denarius1.jpeg" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="denarius4.jpeg" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="denarius6.jpeg" width="228" title="HelloDoctor">
 </p>
   
   
