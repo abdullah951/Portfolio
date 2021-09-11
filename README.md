@@ -34,7 +34,7 @@ I'm quite happy with the final product: Zawar was built entirely in Java, with n
 [Denarius](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=123) is a Online inventory App.
 
 <p align="center">
-<img src="denarius1.jpeg" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="denarius4.jpeg" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="denarius6.jpeg" width="228" title="HelloDoctor">
+<img src="denarius1.jpeg" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="denarius9.jpeg" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="denarius6.jpeg" width="228" title="HelloDoctor">
 </p>
   
   
@@ -71,7 +71,7 @@ I'm quite happy with the final product: Zawar was built entirely in Java, with n
   
   
             # TH-Auction (fitness app)
-[Stop Harassment](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=123) is a Online Money Transfer App.
+[Stop Harassment](https://github.com/abdullah951/StopHarasment) is an internet and mobile platform made available to the public to report incidents in public spaces.
 
 <p align="center">
 <img src="jojo1.png" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="jojo2.png" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="jojo3.png" width="228" title="HelloDoctor">
@@ -80,7 +80,7 @@ I'm quite happy with the final product: Zawar was built entirely in Java, with n
   
   
    # QBScanner 
- [QBScanner](https://github.com/salmanafzal25/iOS-Portfolio/blob/master/README.md) is use to scan a QR code or barcode simply open the app, point the camera at the code, and you’re done!
+ [QBScanner](https://github.com/abdullah951/barcode) is use to scan a QR code or barcode to recognize counterfit product. If the product is fake the app shows red warning.
 
 <p align="center">
 <img src="qbScanner1.jpg" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="qbScanner2.jpg" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="qbScanner3.jpg" width="230" title="DarkRoom">
