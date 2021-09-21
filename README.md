@@ -70,7 +70,7 @@ I'm quite happy with the final product: Zawar was built entirely in Java, with n
 </p>
   
   
-            # TH-Auction (fitness app)
+   # Stop Racisme
 [Stop Racisme](https://github.com/abdullah951/StopHarasment) is an internet and mobile platform made available to the public to report incidents in public spaces.
 
 <!-- <p align="center">
