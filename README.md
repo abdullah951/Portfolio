@@ -73,18 +73,18 @@ I'm quite happy with the final product: Zawar was built entirely in Java, with n
             # TH-Auction (fitness app)
 [Stop Racisme](https://github.com/abdullah951/StopHarasment) is an internet and mobile platform made available to the public to report incidents in public spaces.
 
-<p align="center">
+<!-- <p align="center">
 <img src="jojo1.png" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="jojo2.png" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="jojo3.png" width="228" title="HelloDoctor">
-</p>
+</p>-->
   
   
   
    # QBScanner 
  [QBScanner](https://github.com/abdullah951/barcode) is use to scan a QR code or barcode to recognize counterfit product. If the product is fake the app shows red warning.
 
-<p align="center">
+<!--<p align="center">
 <img src="qbScanner1.jpg" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="qbScanner2.jpg" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="qbScanner3.jpg" width="230" title="DarkRoom">
-</p>
+</p> -->
 
 
 
@@ -95,4 +95,4 @@ I'm quite happy with the final product: Zawar was built entirely in Java, with n
 - LinkedIn: [Abdullah khan](https://www.linkedin.com/in/abdullah-yousafzai)
 - Github: [@abdullah951](https://github.com/abdullah951/Android-Portfolio.git)
 - Stackoverflow: [@abdullah](https://stackoverflow.com/users/6596362/abdullah)
-- Whatsapp: +923045192218
+- Whatsapp: +44 7508 019494
