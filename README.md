@@ -1,11 +1,11 @@
 # Abdullah khan - Android Developer
 
 <div class="entry">
-    <p>Software Engineer as an Android Developer since <strong>more than 1.5yrs</strong>. Developed native and Flutter Android apps ranging from simple education apps to high-end secure enterprise apps. Always working towards clean code, intuitive user experience, data security. I am striving to keep me up with new technologies.<br>
+    <p>Software Engineer as an Android Developer since <strong>more than 2yrs</strong>. Developed native and Flutter Android apps ranging from simple education apps to high-end secure enterprise apps. Always working towards clean code, intuitive user experience, data security. I am striving to keep me up with new technologies.<br>
 
 
 <h2 id="skills">Skills</h2>
-<p>Currently using <strong>Java, Kotlin, Dart</strong>, 2+yrs<br>
+<p>Currently using <strong>Java, Kotlin, Dart</strong><!--, 2+yrs--><br>
 <strong>REST, Firebase, Unit Tests, Retrofit, RxJava, Coroutine, Flow, Room, LiveData, DI(Dagger2, Hilt), MVVM, MVP, Google Maps, Jetpack, Agora, Sinch, Accessibility And Maintenance  Publish android app on playstore</strong><br>
 <strong>Tools:</strong> GitHub, Bitbucker, Jira, Trello, Skype </p>
   </div>
