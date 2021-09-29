@@ -38,8 +38,8 @@ I'm quite happy with the final product: Zawar was built entirely in Java, with n
 </p>
   
   
-      # TH-Auction (fitness app)
-[Emadrasa](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=123) is a Online Animal Auction App.
+   # TH-Auction (Management app)
+[Emadrasa](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=123) is a School Inventory System to manage and keep update of student records in organination.
 
 <p align="center">
 <img src="emadrassa1.jpeg" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="emadrassa2.jpeg" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="emadrassa3.jpeg" width="228" title="HelloDoctor">
@@ -54,7 +54,7 @@ I'm quite happy with the final product: Zawar was built entirely in Java, with n
 </p>
   
         # TH-Auction (fitness app)
-[Ezelink](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=123) is a Online Rooms reservation and food delivery App.
+[Ezelink](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=123) is a bulit for Internet Provider Company to give free internet for a specific period of to facilitate them with free internet.
 
 <p align="center">
 <img src="ezelink1.jpeg" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="ezelink2.jpeg" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="ezelink3.jpeg" width="228" title="HelloDoctor">
@@ -63,7 +63,7 @@ I'm quite happy with the final product: Zawar was built entirely in Java, with n
   
   
           # TH-Auction (fitness app)
-[IDO](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=123) is a Online Hotel reservation App.
+[IDO](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=123) is a Online Inventory reservation App.
 
 <p align="center">
 <img src="ido1.png" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="ido2.png" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="ido3.png" width="228" title="HelloDoctor">
