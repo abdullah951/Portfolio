@@ -95,4 +95,5 @@ I'm quite happy with the final product: Zawar was built entirely in Java, with n
 - LinkedIn: [Abdullah khan](https://www.linkedin.com/in/abdullah-yousafzai)
 - Github: [@abdullah951](https://github.com/abdullah951/Android-Portfolio.git)
 - Stackoverflow: [@abdullah](https://stackoverflow.com/users/6596362/abdullah)
+- Twitter: [@abdullah951](https://twitter.com/abdu11ah951)
 - Whatsapp: +44 7508 019494
