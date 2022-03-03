@@ -47,14 +47,14 @@ I'm quite happy with the final product: Zawar was built entirely in Java, with n
 
 
       # TH-Auction (fitness app)
-[Finding Jobs(RH)](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=123) is a Online Shoping App.
+[Finding Jobs(RH)](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=123) is a Online Order placing App for Property Maintenance Staff to provide inventry for manintenace related work.
 
 <p align="center">
 <img src="rch1.jpeg" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="rch2.jpeg" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="rch3.jpeg" width="228" title="HelloDoctor">
 </p>
   
         # TH-Auction (fitness app)
-[Ezelink](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=123) is a bulit for Internet Provider Company to give free internet for a specific period of to facilitate them with free internet.
+[Ezelink](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=123) is a bulit for Internet Provider Company to give free internet for a specific period of to facilitate them with free internet. 
 
 <p align="center">
 <img src="ezelink1.jpeg" width="230"  title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="ezelink2.jpeg" width="230" title="HelloDoctor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="ezelink3.jpeg" width="228" title="HelloDoctor">
