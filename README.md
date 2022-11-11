@@ -15,10 +15,10 @@
 
 I'm quite happy with the final product: The Fitness Clut was built entirely in Reactjs and the UI—which was created using Different Layout in Interface Builder—is attractive and animates smoothly. Most importantly, the code is clean, easy to reason about, and maintains strong separation of concerns.
 
-<!-- <img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF"><br><br> -->
+<!-- <img src="images/darkroom/HelloDoc1.png" width="350" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/HelloDoc1.png" width="350" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/HelloDoc1.png" width="350" align="center" title="Darkroom GIF"><br><br> -->
 
 <p align="center">
-<img src="zawar1.jpg" width="230"  title="Zawar">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="zawar2.jpg" width="230" title="Zawar">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="zawar3.png" width="228" title="Zawar">
+<img src="thefitclub1.png" width="300"  title="Zawar">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="thefitclub2.png" width="300" title="Zawar">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="thefitclub3.png" width="300" title="Zawar">
 </p>
   
   
@@ -30,7 +30,7 @@ Varius technologies were used in the development of fooditel. The key technologi
 <!-- <img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF"><br><br> -->
 
 <p align="center">
-<img src="zawar1.jpg" width="230"  title="Zawar">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="zawar2.jpg" width="230" title="Zawar">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="zawar3.png" width="228" title="Zawar">
+<img src="fooditel1.png" width="300"  title="The Fit Club">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="fooditel4.png" width="300" title="The Fit Club">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="fooditel3.png" width="300" title="The Fit Club">
 </p>
   
   
@@ -42,7 +42,7 @@ I'm quite happy with the final product: Zawar was built entirely in Java, with n
 <!-- <img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF"><br><br> -->
 
 <p align="center">
-<img src="zawar1.jpg" width="230"  title="Zawar">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="zawar2.jpg" width="230" title="Zawar">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="zawar3.png" width="228" title="Zawar">
+<img src="zawar1.jpg" width="230"  title="Fooditel">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="zawar2.jpg" width="230" title="Fooditel">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="zawar3.png" width="228" title="Fooditel">
 </p>
 
 
