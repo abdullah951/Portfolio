@@ -30,7 +30,7 @@ Varius technologies were used in the development of fooditel. The key technologi
 <!-- <img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF"><br><br> -->
 
 <p align="center">
-<img src="fooditel1.png" width="300"  title="The Fit Club">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="fooditel4.png" width="300" title="The Fit Club">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="fooditel3.png" width="300" title="The Fit Club">
+<img src="fooditel5.png" width="300"  title="The Fit Club">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="fooditel4.png" width="300" title="The Fit Club">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="fooditel3.png" width="300" title="The Fit Club">
 </p>
   
   
