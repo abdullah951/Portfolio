@@ -5,7 +5,7 @@
 
 
 <h2 id="skills">Skills</h2>
-<p>Currently using <strong>Java, Kotlin, Dart</strong><!--, 2+yrs--><br>
+<p>Currently using <strong>Reactjs, Nextjs, Nodejs</strong><!--, 2+yrs--><br>
 <strong>REST, Firebase, Unit Tests, Retrofit, RxJava, Coroutine, Flow, Room, LiveData, DI(Dagger2, Hilt), MVVM, MVP, Google Maps, Jetpack, Agora, Sinch, Accessibility And Maintenance  Publish android app on playstore</strong><br>
 <strong>Tools:</strong> GitHub, Bitbucker, Jira, Trello, Skype </p>
   </div>
