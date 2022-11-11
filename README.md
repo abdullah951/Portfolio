@@ -1,7 +1,7 @@
 # Abdullah khan - Software Developer
 
 <div class="entry">
-    <p>Software Engineer as an React Developer working solely <strong>on working day by to improve learning curve</strong>. Developed native and Flutter Android apps ranging from simple education apps to high-end secure enterprise apps. Always working towards clean code, intuitive user experience, data security. I am striving to keep me up with new technologies.<br>
+    <p>Software Engineer as an React Developer solely <strong>improving learning curve every day</strong>. Worked on varius projects from web application and custom business projects for multiple UI designs. Provided new ideas and designs for generartion of user implemented server deployment. I am striving to keep up with new technologies.<br>
 
 
 <h2 id="skills">Skills</h2>
