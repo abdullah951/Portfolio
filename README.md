@@ -10,6 +10,30 @@
 <strong>Tools:</strong> GitHub, Bitbucker, Jira, Trello, Skype </p>
   </div>
   
+  # The Fit Club (Fitness Center)
+[The Fitness Club] is a online Fitness center website. The basic requirements for the app were that it help people to motivate and join the healthy routine which every one crave to follow.
+
+I'm quite happy with the final product: The Fitness Clut was built entirely in Reactjs and the UI—which was created using Different Layout in Interface Builder—is attractive and animates smoothly. Most importantly, the code is clean, easy to reason about, and maintains strong separation of concerns.
+
+<!-- <img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF"><br><br> -->
+
+<p align="center">
+<img src="zawar1.jpg" width="230"  title="Zawar">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="zawar2.jpg" width="230" title="Zawar">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="zawar3.png" width="228" title="Zawar">
+</p>
+  
+  
+  # Fooditel (Food Delivery Website)
+[Fooditel] is a online Food delivery system. The basic motivation to develop this website was to ease the customers who want to enjoy their lesuire time with their families in home and still enjoy the best food in around their area.
+
+Varius technologies were used in the development of fooditel. The key technologies used to develop this application are Nextjs, Sanity, Zustand. For payment method Stripe is used.
+
+<!-- <img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/HelloDoc1.png" width="250" align="center" title="Darkroom GIF"><br><br> -->
+
+<p align="center">
+<img src="zawar1.jpg" width="230"  title="Zawar">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="zawar2.jpg" width="230" title="Zawar">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="zawar3.png" width="228" title="Zawar">
+</p>
+  
+  
   # Zawar Passenger (Ride Sharing App)
 [Zawar Passenger](https://play.google.com/store/apps/details?id=com.zawar.user&hl=en_US&gl=US) is a online Ride sharing App. The basic requirements for the app were that it help Travel with safety ,share your Ride details with your loved ones, so that they can track your Ride
 
