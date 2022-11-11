@@ -5,8 +5,8 @@
 
 
 <h2 id="skills">Skills</h2>
-<p>Currently using <strong>Reactjs, Nextjs, Nodejs</strong><!--, 2+yrs--><br>
-<strong>REST, Firebase, Unit Tests, Retrofit, RxJava, Coroutine, Flow, Room, LiveData, DI(Dagger2, Hilt), MVVM, MVP, Google Maps, Jetpack, Agora, Sinch, Accessibility And Maintenance  Publish android app on playstore</strong><br>
+<p>Currently using <strong>Javascript, ReactJS, NextJS, NodeJS, ExpressJS</strong><!--, 2+yrs--><br>
+<strong>REST, Bootstrap, React Bootstrap, ChakraUi, Redux, Zustand, Context API, CSS, SCSS, Node, MongoDB, Mongoose, Firebase, Mysql, Maps, Virtual DOM, JSX, Unit Tests, Forms, Git, Github, GitLab</strong><br>
 <strong>Tools:</strong> GitHub, Bitbucker, Jira, Trello, Skype </p>
   </div>
   
